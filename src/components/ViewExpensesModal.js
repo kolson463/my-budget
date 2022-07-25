@@ -27,7 +27,7 @@ export default function ViewExpensesModal({ budgetId, handleClose }) {
                 }}
                 variant="outline-danger"
               >
-                Delete
+                Delete Budget
               </Button>
             )}
           </Stack>
