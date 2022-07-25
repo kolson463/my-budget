@@ -1,3 +1,7 @@
+## Basic budget app with functionality to add/remove both budgets and individual expenses using local storage backend.
+
+![My Budget Screenshot](public/my-budget-capture.JPG?raw=true "My Budget Screenshot") 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
